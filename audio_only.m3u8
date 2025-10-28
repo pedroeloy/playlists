@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:1,--SILENCE--
+https://drive.google.com/uc?id=1AG8gecPikiKV_avlQxY9zi5dHpyORGAd&authuser=0&export=download
+
+#EXTINF:0,OBSERVADORAAC_SC?dist=external
+#EXTVLCOPT:network-caching=5000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC_SC?dist=external
+
+#EXTINF:50,observador
+#EXTVLCOPT:network-caching=5000
+https://stream.observador.pt/aac_hifi.m3u8
+
+#EXTINF:0,tsf mp3
+#EXTVLCOPT:network-caching=1000
+http://directo.tsf.pt:8181/tsfdirecto.mp3
+
+#EXTINF:0,tsf mp3
+#EXTVLCOPT:network-caching=1000
+http://directo.tsf.pt/tsfdirecto.mp3.m3u
+
+#EXTINF:0,tsf aac
+#EXTVLCOPT:network-caching=1000
+http://directo.tsf.pt:8181/tsfdirecto.aac
+
+#EXTINF:0,tsf aac
+#EXTVLCOPT:network-caching=1000
+http://directo.tsf.pt/tsfdirecto.aac.m3u
+
+#EXTINF:100,SIC Noticias Audio
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot_audio.m3u8
+
+#EXTINF:0,oxigenio
+#EXTVLCOPT:network-caching=1000
+#https://proic1.evspt.com/oxigenio_aac
+http://proic1.evspt.com/oxigenio_aac
+
+#EXTINF:0,radar
+#EXTVLCOPT:network-caching=1000
+#https://proic1.evspt.com/radar_aac
+http://proic1.evspt.com/radar_aac
+
+#EXTINF:0,marginal
+#EXTVLCOPT:network-caching=1000
+https://centova.radios.pt/proxy/499?mp=/stream/1/
+
+#EXTINF:0,comercial mp3
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/comercial.mp3
+
+#EXTINF:0,comercial aac
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/comercial.aac
+
+#EXTINF:0,rfm
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
+
+#EXTINF:0,vodafone
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/vodafone.mp3
+
+#EXTINF:0,antena1
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+
+#EXTINF:0,antena2
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+
+#EXTINF:0,antena3
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+
+#EXTINF:0,smoothfm
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/smooth.mp3
+
+#EXTINF:0,m80
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/m80.mp3
+
+#EXTINF:0,ambi nature radio
+#EXTVLCOPT:network-caching=5000
+https://nature-rex.radioca.st/stream
+
+#EXTINF:0,lofi radio
+#EXTVLCOPT:network-caching=1000
+http://ec2.yesstreaming.net:1910/stream
+
+#EXTINF:0,chillhop
+#EXTVLCOPT:network-caching=1000
+http://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/
+
+#EXTINF:0,chillout radio
+#EXTVLCOPT:network-caching=1000
+http://streams.fluxfm.de/chillout/mp3-320/streams.fluxfm.de/
+
+#EXTINF:0,yoga sounds
+#EXTVLCOPT:network-caching=1000
+http://streams.fluxfm.de/yogasounds/mp3-320/streams.fluxfm.de/
+
+#EXTINF:0,stream-192kmp3-BaySmoothJazz
+#EXTVLCOPT:network-caching=5000
+https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
+
+#EXTINF:0,stream-mp3-Chill_autodj
+#EXTVLCOPT:network-caching=1000
+http://radio4.vip-radios.fm:8020/stream-mp3-Chill_autodj
+
+#EXTINF:0,SmoothJazz
+#EXTVLCOPT:network-caching=5000
+https://smoothjazz.cdnstream1.com/2585_256.mp3?
+
+#EXTINF:0,SmoothChill
+#EXTVLCOPT:network-caching=5000
+https://media-ssl.musicradio.com/SmoothChill
+
+#EXTINF:0,Healing Music
+#EXTVLCOPT:network-caching=5000
+https://radio4.vip-radios.fm:18039/stream-128kmp3-HealingMusic
+
+#EXTINF:0,4D Drive Jazz
+#EXTVLCOPT:network-caching=5000
+https://radio.streemlion.com:4870/stream
+
+#EXTINF:0,101 Smooth Jazz
+#EXTVLCOPT:network-caching=1000
+http://jking.cdnstream1.com/b22139_128mp3
+
+#EXTINF:0,WJTI AM FM The Smooth Jazz Smooth Wave
+#EXTVLCOPT:network-caching=1000
+http://server.webnetradio.net:8014/stream

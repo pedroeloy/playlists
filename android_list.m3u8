@@ -1,0 +1,393 @@
+#EXTM3U
+#EXTINF:0,OBSERVADORAAC_SC?dist=external
+#EXTVLCOPT:network-caching=5000
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC_SC?dist=external
+
+#EXTINF:-1, Observador mp3 
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR.mp3
+
+
+#EXTINF:-1, Observador aac 
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac
+
+#EXTINF:-1, Observador centova
+#EXTVLCOPT:http-referrer=http://nossl.fmstream.org/
+https://centova.radio.com.pt/proxy/455?mp=/stream
+#http://centova.radios.pt:8455/stream
+
+#EXTINF:0,tsf http mp3
+#EXTVLCOPT:network-caching=1000
+https://directo.tsf.pt/tsfdirecto.aac
+#http://directo.tsf.pt/tsfdirecto.mp3
+#http://directo.tsf.pt:8181/tsfdirecto.mp3
+#https://directo.tsf.pt/tsfdirecto.mp3
+#http://directo.tsf.pt:8181/tsfdirecto.aac
+#http://directo.tsf.pt/tsfdirecto.aac
+
+
+#EXTINF:-1,antena1
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+
+#EXTINF:-1,SIC Noticias Audio sic.pt
+#EXTVLCOPT:http-referrer=https://sic.pt/
+#EXTVLCOPT:network-caching=10000
+https://sicnot.live.impresa.pt/sicnot_audio.m3u8
+
+#EXTINF:-1,Sic Noticias Cloudfront
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1,CNN_Portugal.m3u
+#EXTVLCOPT:network-caching=5000
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
+
+#EXTINF:-1,RTP Notícias 720p VLC
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1,RTP 1 720p VLC
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1,RTP 2 720p VLC
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1 ,CMTV M3UPT.COM PRIVADO
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/6.ts
+
+#EXTINF:-1 ,CMTV M3UPT.COM PRIVADO
+https://tvh.r2d2.cyou/stream/channelid/451380933
+
+#EXTINF:-1 ,News Nows M3UPT.COM PRIVADO
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/131.ts
+
+#EXTINF:-1,Porto Canal M3UPT.COM PRIVADO
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/13.ts
+
+#EXTINF:-1,Sic Noticias 270p Cloudfront
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_1.m3u8
+
+#EXTINF:-1,Sic Noticias 360p Cloudfront
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_2.m3u8
+
+#EXTINF:-1,Sic Noticias 540p Cloudfront
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_3.m3u8
+
+#EXTINF:-1,Sic Noticias 720p Cloudfront
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
+
+#EXTINF:-1,Sic Noticias 1080p Cloudfront
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_5.m3u8
+
+
+
+#EXTINF:-1,SIC Noticias 540p VLC
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot540p.m3u8
+
+#EXTINF:-1,SIC Noticias 720p VLC
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot720p.m3u8
+
+#EXTINF:-1,SIC Noticias 1080p VLC
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot1080p.m3u8
+
+#EXTINF:-1,SIC Noticias VLC
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
+
+#EXTINF:-1,SIC HD
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1,TVI.m3u
+#EXTVLCOPT:network-caching=5000
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/TVI.m3u
+
+#EXTINF:-1,RTP 1
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u
+
+#EXTINF:-1,RTP 2
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+
+#EXTINF:-1,RTP 3
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+
+#EXTINF:-1,RTP Memoria
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1,ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
+#EXTINF:-1,tsf aac
+#EXTVLCOPT:network-caching=1000
+http://directo.tsf.pt:8181/tsfdirecto.aac
+
+#EXTINF:-1,tsf aac
+#EXTVLCOPT:network-caching=1000
+http://directo.tsf.pt/tsfdirecto.aac.m3u
+
+#EXTINF:-1,oxigenio
+#EXTVLCOPT:network-caching=1000
+https://proic1.evspt.com/oxigenio_aac
+
+#EXTINF:-1,radar
+#EXTVLCOPT:network-caching=1000
+https://proic1.evspt.com/radar_aac
+
+#EXTINF:-1,marginal
+#EXTVLCOPT:network-caching=1000
+https://centova.radios.pt/proxy/499?mp=/stream/1/
+
+#EXTINF:-1,comercial mp3
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/comercial.mp3
+
+#EXTINF:-1,comercial aac
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/comercial.aac
+
+#EXTINF:-1,rfm
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
+
+#EXTINF:-1,vodafone
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/vodafone.mp3
+
+#EXTINF:-1,antena1
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+
+#EXTINF:-1,antena2
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+
+#EXTINF:-1,antena3
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+
+#EXTINF:-1,smoothfm
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/smooth.mp3
+
+#EXTINF:-1,m80
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/m80.mp3
+
+#EXTINF:-1,ambi nature radio
+#EXTVLCOPT:network-caching=5000
+https://nature-rex.radioca.st/stream
+
+#EXTINF:-1,lofi radio
+#EXTVLCOPT:network-caching=1000
+http://ec2.yesstreaming.net:1910/stream
+
+#EXTINF:-1,chillhop
+#EXTVLCOPT:network-caching=1000
+http://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/
+
+#EXTINF:-1,chillout radio
+#EXTVLCOPT:network-caching=1000
+http://streams.fluxfm.de/chillout/mp3-320/streams.fluxfm.de/
+
+#EXTINF:-1,yoga sounds
+#EXTVLCOPT:network-caching=1000
+http://streams.fluxfm.de/yogasounds/mp3-320/streams.fluxfm.de/
+
+#EXTINF:-1,stream-192kmp3-BaySmoothJazz
+#EXTVLCOPT:network-caching=5000
+https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz
+
+#EXTINF:-1,stream-mp3-Chill_autodj
+#EXTVLCOPT:network-caching=1000
+http://radio4.vip-radios.fm:8020/stream-mp3-Chill_autodj
+
+#EXTINF:-1,SmoothJazz
+#EXTVLCOPT:network-caching=5000
+https://smoothjazz.cdnstream1.com/2585_256.mp3?
+
+#EXTINF:-1,SmoothChill
+#EXTVLCOPT:network-caching=5000
+https://media-ssl.musicradio.com/SmoothChill
+
+#EXTINF:-1,Healing Music
+#EXTVLCOPT:network-caching=5000
+https://radio4.vip-radios.fm:18039/stream-128kmp3-HealingMusic
+
+#EXTINF:-1,SIC
+#EXTVLCOPT:network-caching=5000
+https://sic.live.impresa.pt/sic.m3u8
+
+#EXTINF:-1,SIC 540
+#EXTVLCOPT:network-caching=5000
+https://sic.live.impresa.pt/sic540p.m3u8
+
+#EXTINF:-1,SIC 720
+#EXTVLCOPT:network-caching=5000
+https://sic.live.impresa.pt/sic720p.m3u8
+
+#EXTINF:-1,YOUTUBE LoFi Girl
+#EXTVLCOPT:network-caching=5000
+https://www.youtube.com/watch?v=jfKfPfyJRdk
+
+#EXTINF:-1,Porto Canal
+http://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1,Euronews PT
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,CNN International 640x360
+#EXTVLCOPT:network-caching=5000
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/8e0ca905968601c520adfb5de6c2073f.m3u8
+
+#EXTINF:-1,CNN International
+#EXTVLCOPT:network-caching=5000
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sky News https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTVLCOPT:network-caching=5000
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+#EXTINF:-1,RT News 640x360
+#EXTVLCOPT:network-caching=5000
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-2/vift-hm2v_360p/chunklist_DVR.m3u8
+
+#EXTINF:-1,RT News
+#EXTVLCOPT:network-caching=5000
+https://rumble.com/live-hls-dvr/2td0fs/playlist.m3u8
+
+#EXTINF:-1,Channel ONE .RU
+#EXTVLCOPT:network-caching=5000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,beachcam costa caparica cds
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+
+#EXTINF:-1,beachcam são joão caparica
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+
+#EXTINF:-1,beachcam carcavelos
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+
+#EXTINF:-1,beachcam praia da torre
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+
+#EXTINF:-1,beachcam paço de arcos
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
+
+#EXTINF:-1,beachcam praia da rocha portimão
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+
+#EXTINF:-1,beachcam praia das rocas
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/praiadasrocas/chunks.m3u8
+
+
+#EXTINF:-1,SPTV1
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/48.ts
+
+#EXTINF:-1,SPTV2
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/49.ts
+
+#EXTINF:-1,SPTV3
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/50.ts
+
+#EXTINF:-1,SPTV4
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/51.ts
+
+#EXTINF:-1,SPTV5
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/52.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SportTV6.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sport-TV-6.png",Sport TV 6
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/53.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SportTV7.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sport-TV-7.svg",Sport TV 7
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/124.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_1.png",DAZN 1
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/56.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_2.png",DAZN 2
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/57.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_3.png",DAZN 3
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/58.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_3.png",DAZN 3
+http://fortv.cc:8080/live/cQnq6G/652882/167748.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN4.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_4.png",DAZN 4
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/59.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN4.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_4.png",DAZN 4
+http://fortv.cc:8080/live/cQnq6G/652882/167749.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN5.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_5.png",DAZN 5
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/60.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN5.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_5.png",DAZN 5
+http://fortv.cc:8080/live/cQnq6G/652882/167750.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DAZN6.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DAZN_6.png",DAZN 6
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/61.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="SportingTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sporting-TV.png",Sporting TV
+#https://tvh.r2d2.cyou/stream/channelid/2051452344
+
+#EXTINF:-1 group-title="TV" tvg-id="SportingTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sporting-TV.png",Sporting TV
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/62.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="BenficaTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BTV.png",BTV
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/64.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCineTop.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCine_TOP.png",TVCine Top
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/72.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCineEdition.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCine_EDITION.png",TVCine Edition
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/73.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCineEmotion.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCine_EMOTION.png",TVCine Emotion
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/74.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCineAction.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCine_ACTION.png",TVCine Action
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/75.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVCineAction.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVCine_ACTION.png",TVCine Action
+http://fortv.cc:8080/live/cQnq6G/652882/164809.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="NosStudios.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NOS-Studios.png",NOS Studios
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/79.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="NosStudios.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NOS-Studios.png",NOS Studios
+http://fortv.cc:8080/live/cQnq6G/652882/164811.m3u8
+
+#EXTINF:1,--SILENCE--
+https://drive.google.com/uc?id=1AG8gecPikiKV_avlQxY9zi5dHpyORGAd&authuser=0&export=download
+
+#EXTINF:0,LISTA M3UPT.COM PUBLICO
+#EXTVLCOPT:network-caching=1000
+https://m3upt.com/iptv
+
+#EXTINF:0,LISTA M3UPT.COM PRIVADO
+#EXTVLCOPT:network-caching=5000
+https://r2d2.cyou/favoritos-8495201
+
+
+#EXTINF:60,SIC Noticias 540p sic.pt
+#EXTVLCOPT:http-referrer=https://sic.pt/
+#https://sicnot.live.impresa.pt/sicnot540p.m3u8
+
+
