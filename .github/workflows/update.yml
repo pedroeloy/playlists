@@ -1,1 +1,26 @@
+name: Update workflow
+on:
+  schedule:
+    - cron: "5 * * * *"
 
+jobs:
+  Update-streams:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: teste1
+        run: sh build/getlist.sh
+
+#      - name: setup git config
+#        run: |
+#          git config user.name "Github Action Bot"
+#          git config user.email "<>"
+
+#      - name: commit
+#        run: |
+#          cd test && git add *.m3u
+#          git diff-index --quiet HEAD || git commit -m "Short M3UPT"
+#          git push origin main
