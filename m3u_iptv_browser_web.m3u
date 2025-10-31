@@ -1,41 +1,24 @@
 #EXTM3U
 #EXTINF:0,OBSERVADORAAC_SC?dist=external
 #EXTVLCOPT:network-caching=5000
-https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC_SC?dist=external
-
-#EXTINF:-1, Observador mp3 
-https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR.mp3
-
-#EXTINF:-1, Observador aac 
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac
-
-#EXTINF:-1, Observador centova
-#EXTVLCOPT:http-referrer=http://nossl.fmstream.org/
+#https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC_SC?dist=external
+#https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR.mp3
+#EXTVLCOPTX:http-referrer=http://nossl.fmstream.org/
 #https://centova.radio.com.pt/proxy/455?mp=/stream
 #http://centova.radios.pt:8455/stream
 
-#EXTINF:0, tsfdirectoaacm3u
-https://directo.tsf.pt/tsfdirecto.aac.m3u
-
-#EXTINF:0, tsfdirectomp3m3u
-https://directo.tsf.pt/tsfdirecto.mp3.m3u
-
-#EXTINF:0, tsfdirectomp3
-https://directo.tsf.pt/tsfdirecto.mp3
-
-#EXTINF:0, tsfdirectoaac
-https://directo.tsf.pt/tsfdirecto.aac
-
 #EXTINF:0, http://directo.tsf.pt/tsfdirecto.aac
 http://directo.tsf.pt/tsfdirecto.aac
-
-#EXTINF:0, http8181tsfdirectomp3
-http://directo.tsf.pt:8181/tsfdirecto.mp3
+#https://directo.tsf.pt/tsfdirecto.aac.m3u
+#https://directo.tsf.pt/tsfdirecto.mp3.m3u
+#https://directo.tsf.pt/tsfdirecto.mp3
+#https://directo.tsf.pt/tsfdirecto.aac
+#http://directo.tsf.pt:8181/tsfdirecto.mp3
 #http://directo.tsf.pt/tsfdirecto.mp3
 #http://directo.tsf.pt:8181/tsfdirecto.mp3
 #http://directo.tsf.pt:8181/tsfdirecto.aac
 #http://directo.tsf.pt/tsfdirecto.aac
-
 
 #EXTINF:-1,antena1
 #EXTVLCOPT:network-caching=1000
@@ -44,7 +27,7 @@ https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 #EXTINF:-1,SIC Noticias Audio sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
 #EXTVLCOPT:network-caching=10000
-https://sicnot.live.impresa.pt/sicnot_audio.m3u8
+#https://sicnot.live.impresa.pt/sicnot_audio.m3u8
 
 #EXTINF:-1,Sic Noticias Cloudfront
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
