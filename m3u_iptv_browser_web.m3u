@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,OBSERVADORAAC_SC?dist=external
+#EXTINF:0,observador
 #EXTVLCOPT:network-caching=5000
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac
 #https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC_SC?dist=external
@@ -8,7 +8,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.
 #https://centova.radio.com.pt/proxy/455?mp=/stream
 #http://centova.radios.pt:8455/stream
 
-#EXTINF:0, http://directo.tsf.pt/tsfdirecto.aac
+#EXTINF:0,tsf
 http://directo.tsf.pt/tsfdirecto.aac
 #https://directo.tsf.pt/tsfdirecto.aac.m3u
 #https://directo.tsf.pt/tsfdirecto.mp3.m3u
@@ -23,6 +23,7 @@ http://directo.tsf.pt/tsfdirecto.aac
 #EXTINF:-1,antena1
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+
 
 #EXTINF:-1,SIC Noticias Audio sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
