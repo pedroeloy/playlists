@@ -6,21 +6,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC_
 #EXTINF:-1, Observador mp3 
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR.mp3
 
-
 #EXTINF:-1, Observador aac 
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac
 
 #EXTINF:-1, Observador centova
 #EXTVLCOPT:http-referrer=http://nossl.fmstream.org/
-https://centova.radio.com.pt/proxy/455?mp=/stream
+#https://centova.radio.com.pt/proxy/455?mp=/stream
 #http://centova.radios.pt:8455/stream
 
 #EXTINF:0,tsf http mp3
 #EXTVLCOPT:network-caching=1000
-https://directo.tsf.pt/tsfdirecto.aac
+https://directo.tsf.pt/tsfdirecto.mp3
+#https://directo.tsf.pt/tsfdirecto.aac
 #http://directo.tsf.pt/tsfdirecto.mp3
 #http://directo.tsf.pt:8181/tsfdirecto.mp3
-#https://directo.tsf.pt/tsfdirecto.mp3
 #http://directo.tsf.pt:8181/tsfdirecto.aac
 #http://directo.tsf.pt/tsfdirecto.aac
 
