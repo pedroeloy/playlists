@@ -26,6 +26,9 @@ https://directo.tsf.pt/tsfdirecto.mp3
 #EXTINF:0, tsfdirectoaac
 https://directo.tsf.pt/tsfdirecto.aac
 
+#EXTINF:0, http://directo.tsf.pt/tsfdirecto.aac
+http://directo.tsf.pt/tsfdirecto.aac
+
 #EXTINF:0, http8181tsfdirectomp3
 http://directo.tsf.pt:8181/tsfdirecto.mp3
 #http://directo.tsf.pt/tsfdirecto.mp3
