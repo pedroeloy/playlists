@@ -14,12 +14,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.
 #https://centova.radio.com.pt/proxy/455?mp=/stream
 #http://centova.radios.pt:8455/stream
 
-#EXTINF:0,https://directo.tsf.pt/tsfdirecto.aac.m3u 
+#EXTINF:0, tsfdirectoaacm3u 
 https://directo.tsf.pt/tsfdirecto.aac.m3u
 
-#EXTINF:0,https://directo.tsf.pt/tsfdirecto.mp3.m3u 
+#EXTINF:0, tsfdirectomp3m3u 
 https://directo.tsf.pt/tsfdirecto.mp3.m3u
-
 #https://directo.tsf.pt/tsfdirecto.mp3
 #https://directo.tsf.pt/tsfdirecto.aac
 #http://directo.tsf.pt/tsfdirecto.mp3
