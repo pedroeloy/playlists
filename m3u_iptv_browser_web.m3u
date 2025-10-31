@@ -21,10 +21,10 @@ https://directo.tsf.pt/tsfdirecto.aac.m3u
 https://directo.tsf.pt/tsfdirecto.mp3.m3u
 
 #EXTINF:0, tsfdirectomp3
-#https://directo.tsf.pt/tsfdirecto.mp3
+https://directo.tsf.pt/tsfdirecto.mp3
 
 #EXTINF:0, tsfdirectoaac
-#https://directo.tsf.pt/tsfdirecto.aac
+https://directo.tsf.pt/tsfdirecto.aac
 
 #EXTINF:0, http8181tsfdirectomp3
 http://directo.tsf.pt:8181/tsfdirecto.mp3
