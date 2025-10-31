@@ -26,11 +26,11 @@ https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 
 #EXTINF:0,oxigenio
 #EXTVLCOPTX:network-caching=1000
-https://proic1.evspt.com/oxigenio_mp3
+http://proic1.evspt.com/oxigenio_mp3
 
 #EXTINF:0,radar
 #EXTVLCOPTX:network-caching=1000
-https://proic1.evspt.com/radar_mp3
+http://proic1.evspt.com/radar_mp3
 
 #EXTINF:0,marginal
 #EXTVLCOPTX:network-caching=1000
