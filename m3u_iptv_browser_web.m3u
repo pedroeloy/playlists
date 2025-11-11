@@ -40,6 +40,12 @@ http://centova.radios.pt/proxy/499?mp=/stream/1/
 #EXTVLCOPT:network-caching=1000
 http://ec2.yesstreaming.net:1910/stream
 
+#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
+
 #EXTINF:-1,Sic Noticias Cloudfront
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
