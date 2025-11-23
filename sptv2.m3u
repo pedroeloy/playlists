@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1,http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/49.ts
+#EXTVLCOPT:network-caching=5000
+http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/49.ts
+
+#EXTINF:-1,http://fortv.cc:8080/live/cQnq6G/652882/167743.m3u8
+#EXTVLCOPT:network-caching=5000
+http://fortv.cc:8080/live/cQnq6G/652882/167743.m3u8
