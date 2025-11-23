@@ -258,14 +258,26 @@ https://video-auth1.iol.pt/beachcam/praiadasrocas/chunks.m3u8
 #EXTINF:-1,SPTV1
 http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/48.ts
 
+#EXTINF:-1,SPTV1
+http://fortv.cc:8080/live/cQnq6G/652882/167742.m3u8
+
 #EXTINF:-1,SPTV2
 http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/49.ts
+
+#EXTINF:-1,SPTV2
+http://fortv.cc:8080/live/cQnq6G/652882/167743.m3u8
 
 #EXTINF:-1,SPTV3
 http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/50.ts
 
+#EXTINF:-1,SPTV3
+http://fortv.cc:8080/live/cQnq6G/652882/167744.m3u8
+
 #EXTINF:-1,SPTV4
 http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/51.ts
+
+#EXTINF:-1,SPTV4
+http://fortv.cc:8080/live/cQnq6G/652882/167745.m3u8
 
 #EXTINF:-1,SPTV5
 http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/52.ts
