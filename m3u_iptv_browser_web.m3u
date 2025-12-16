@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#### RADIOS ##########################################################################
+
 #EXTINF:0,observador
 #EXTVLCOPTX:network-caching=5000
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac
@@ -41,25 +45,8 @@ http://centova.radios.pt/proxy/499?mp=/stream/1/
 #EXTVLCOPT:network-caching=1000
 http://ec2.yesstreaming.net:1910/stream
 
-#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-origin=https://sicnoticias.pt
-#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
-https://sicnot.live.impresa.pt/sicnot.m3u8
+## TV #####################################################################################
 
-#EXTINF:-1,Sic Noticias Cloudfront
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-
-#EXTINF:-1,CNN_Portugal.m3u
-#EXTVLCOPT:network-caching=5000
-https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
-
-#EXTINF:-1,RTP Notícias 720p VLC
-#XXXEXTVLCOPT:http-user-agent=IE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-origin=https://www.rtp.pt
-#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_slpor.m3u8
 
 #EXTINF:-1,RTP 1 720p VLC
 #XXXEXTVLCOPT:network-caching=1000
@@ -75,6 +62,48 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_s
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-origin=https://sic.pt
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1,TVI.m3u
+#EXTVLCOPT:network-caching=5000
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/TVI.m3u
+
+#EXTINF:-1,RTP Notícias 720p VLC
+#XXXEXTVLCOPT:http-user-agent=IE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-origin=https://www.rtp.pt
+#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-origin=https://sicnoticias.pt
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
+
+#EXTINF:-1,Sic Noticias Cloudfront
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1,CNN_Portugal.m3u
+#EXTVLCOPT:network-caching=5000
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
+
+
+#EXTINF:-1 group-title="TV" group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",Euronews PT
+#https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+#https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiYTczODFmMGMtYjk4Ni00ODc1LWIzMDYtN2E3MTdlZDgxZTQxIiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ%3D%3D/26035/euronews-pt.m3u8
+https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
+
+
+#EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
+###########################################################################################################
 
 #EXTINF:-1,Sic Noticias 270p Cloudfront
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_1.m3u8
@@ -94,9 +123,7 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #EXTINF:-1,SIC HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1,TVI.m3u
-#EXTVLCOPT:network-caching=5000
-https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/TVI.m3u
+
 
 #EXTINF:-1,RTP 1
 #EXTVLCOPT:http-user-agent=IE
