@@ -6,7 +6,7 @@ https://drive.google.com/uc?id=1AG8gecPikiKV_avlQxY9zi5dHpyORGAd&authuser=0&expo
 #EXTVLCOPT:network-caching=5000
 https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC_SC?dist=external
 
-#EXTINF:50,observador
+#EXTINF:0,observador
 #EXTVLCOPT:network-caching=5000
 https://stream.observador.pt/aac_hifi.m3u8
 
@@ -26,7 +26,7 @@ http://directo.tsf.pt:8181/tsfdirecto.aac
 #EXTVLCOPT:network-caching=1000
 http://directo.tsf.pt/tsfdirecto.aac.m3u
 
-#EXTINF:100,SIC Noticias Audio
+#EXTINF:0,SIC Noticias Audio
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot_audio.m3u8
@@ -132,4 +132,5 @@ http://jking.cdnstream1.com/b22139_128mp3
 #EXTINF:0,WJTI AM FM The Smooth Jazz Smooth Wave
 #EXTVLCOPT:network-caching=1000
 http://server.webnetradio.net:8014/stream
+
 
