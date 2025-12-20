@@ -153,17 +153,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_s
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt 720p" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-origin=https://sicnoticias.pt
-#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
-https://sicnot.live.impresa.pt/sicnot720p.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt 1080p" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-origin=https://sicnoticias.pt
-#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
-https://sicnot.live.impresa.pt/sicnot1080p.m3u8
 
 
 
