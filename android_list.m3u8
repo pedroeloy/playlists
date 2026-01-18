@@ -67,19 +67,15 @@ http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/131.t
 http://cclientess.dontexist.net:3698/live/6EA4E247F5A5FEFD268241573E3A0F87/13.ts
 
 #EXTINF:-1,Sic Noticias 270p Cloudfront
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_1.m3u8
-
+#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_1.m3u8
 #EXTINF:-1,Sic Noticias 360p Cloudfront
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_2.m3u8
-
+#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_2.m3u8
 #EXTINF:-1,Sic Noticias 540p Cloudfront
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_3.m3u8
-
+#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_3.m3u8
 #EXTINF:-1,Sic Noticias 720p Cloudfront
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
-
+#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
 #EXTINF:-1,Sic Noticias 1080p Cloudfront
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_5.m3u8
+#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_5.m3u8
 
 
 
@@ -87,13 +83,13 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
+
 #EXTINF:-1,SIC Noticias 720p VLC
 #EXTVLCOPT:http-referrer=https://sic.pt/
-https://sicnot.live.impresa.pt/sicnot720p.m3u8
-
+#https://sicnot.live.impresa.pt/sicnot720p.m3u8
 #EXTINF:-1,SIC Noticias 1080p VLC
 #EXTVLCOPT:http-referrer=https://sic.pt/
-https://sicnot.live.impresa.pt/sicnot1080p.m3u8
+#https://sicnot.live.impresa.pt/sicnot1080p.m3u8
 
 #EXTINF:-1,SIC Noticias VLC
 #EXTVLCOPT:http-referrer=https://sic.pt/
@@ -389,5 +385,6 @@ https://r2d2.cyou/favoritos-8495201
 #EXTINF:60,SIC Noticias 540p sic.pt
 #EXTVLCOPT:http-referrer=https://sic.pt/
 #https://sicnot.live.impresa.pt/sicnot540p.m3u8
+
 
 
