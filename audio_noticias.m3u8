@@ -101,6 +101,10 @@ https://stream.radioclub80.cl:8002/clasicos80.flac
 #EXTVLCOPT:network-caching=1000
 https://stream-icy.bauermedia.pt/m8080.aac
 
+#EXTINF:0,NORA 80ers
+#EXTVLCOPT:network-caching=1000
+https://streams.norawebstreams.de/nora-80er/mp3-128/radiode/
+
 #EXTINF:0,ambi nature radio
 #EXTVLCOPT:network-caching=5000
 https://nature-rex.radioca.st/stream
@@ -172,6 +176,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_s
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
 
 
 
