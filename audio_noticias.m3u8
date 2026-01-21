@@ -85,6 +85,10 @@ https://stream-icy.bauermedia.pt/m80.mp3
 #EXTVLCOPT:network-caching=1000
 https://stream-icy.bauermedia.pt/m80ballads.aac
 
+#EXTINF:0,radio club 80 ballads
+#EXTVLCOPT:network-caching=1000
+https://stream.radioclub80.cl:8042/baladas80.flac
+
 #EXTINF:0,m80 80s
 #EXTVLCOPT:network-caching=1000
 https://stream-icy.bauermedia.pt/m8080.aac
@@ -160,6 +164,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_s
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
 
 
 
