@@ -157,6 +157,9 @@ http://jking.cdnstream1.com/b22139_128mp3
 #EXTVLCOPT:network-caching=1000
 http://server.webnetradio.net:8014/stream
 
+#EXTINF:0,AM Ambient
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mikepierce/internet-radio-streams/refs/heads/main/AM-Ambient.m3u
 
 ### VIDEO 
 #EXTINF:-1,SIC Noticias 540p VLC
@@ -176,6 +179,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_s
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
 
 
 
