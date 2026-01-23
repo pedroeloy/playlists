@@ -113,6 +113,10 @@ https://nature-rex.radioca.st/stream
 #EXTVLCOPT:network-caching=1000
 http://ec2.yesstreaming.net:1910/stream
 
+#EXTINF:0,Nordic Lodge - Copenhagen
+#EXTVLCOPT:network-caching=1000
+http://radio.streemlion.com:1160/stream
+
 #EXTINF:0,chillhop
 #EXTVLCOPT:network-caching=1000
 http://streams.fluxfm.de/Chillhop/mp3-320/streams.fluxfm.de/
@@ -179,6 +183,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_s
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
+
 
 
 
