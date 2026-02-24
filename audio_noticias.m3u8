@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,#### audio_noticias.m3u8 ####
------------------------------------------
+https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTINF:0,OBSERVADORAAC_SC?dist=external
 #EXTVLCOPT:network-caching=5000
@@ -165,7 +165,8 @@ http://server.webnetradio.net:8014/stream
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/mikepierce/internet-radio-streams/refs/heads/main/AM-Ambient.m3u
 
-### VIDEO 
+### VIDEO ###
+https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1,RTP 1 720p VLC
 #EXTVLCOPT:http-user-agent=IE
@@ -195,6 +196,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
 
 
 
