@@ -166,17 +166,22 @@ http://server.webnetradio.net:8014/stream
 https://raw.githubusercontent.com/mikepierce/internet-radio-streams/refs/heads/main/AM-Ambient.m3u
 
 ### VIDEO 
-#EXTINF:-1,SIC Noticias 540p VLC
-#EXTVLCOPT:http-referrer=https://sic.pt/
-https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
-#EXTINF:-1,CNN_Portugal.m3u
-#EXTVLCOPT:network-caching=5000
-https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
+#EXTINF:-1,RTP 1 720p VLC
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1,RTP 2 720p VLC
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/chunklist_b2540000_slpor.m3u8
 
 #EXTINF:-1,RTP Notícias 720p VLC
 #EXTVLCOPT:http-user-agent=IE
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_slpor.m3u8
+
+#EXTINF:-1,SIC Noticias 540p VLC
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot540p.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -184,8 +189,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/chunklist_b2540000_s
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
+#EXTINF:-1,CNN_Portugal.m3u
+#EXTVLCOPT:network-caching=5000
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
+
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
 
 
 
