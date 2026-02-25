@@ -130,7 +130,10 @@ http://streams.fluxfm.de/chillout/mp3-320/streams.fluxfm.de/
 http://streams.fluxfm.de/yogasounds/mp3-320/streams.fluxfm.de/
 
 #EXTINF:0,Smooth-FM Cool
-https://chunks-bauerpt.sharp-stream.com/smocool.aac
+#EXTVLCOPT:http-origin=https://rayo.pt
+#EXTVLCOPT:http-referrer=https://rayo.pt/
+https://stream-hls.rayo.pt/smocool.aac/playlist.m3u8
+#https://chunks-bauerpt.sharp-stream.com/smocool.aac
 
 #EXTINF:0,stream-192kmp3-BaySmoothJazz
 #EXTVLCOPT:network-caching=5000
@@ -168,7 +171,7 @@ http://server.webnetradio.net:8014/stream
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/mikepierce/internet-radio-streams/refs/heads/main/AM-Ambient.m3u
 
-### VIDEO ###
+#EXTINF:1,### VIDEO ###
 https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #EXTINF:-1,RTP 1 720p VLC
@@ -199,6 +202,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
 
 
 
