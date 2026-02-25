@@ -73,9 +73,7 @@ https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 
-#EXTINF:0,smoothfm
-#EXTVLCOPT:network-caching=1000
-https://stream-icy.bauermedia.pt/smooth.mp3
+
 
 #EXTINF:0,m80
 #EXTVLCOPT:network-caching=1000
@@ -84,6 +82,30 @@ https://stream-icy.bauermedia.pt/m80.mp3
 #EXTINF:0,m80 ballads
 #EXTVLCOPT:network-caching=1000
 https://stream-icy.bauermedia.pt/m80ballads.aac
+
+#EXTINF:0,m80 80s
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/m8080.aac
+
+#EXTINF:0,Smooth-FM
+#EXTVLCOPT:network-caching=1000
+https://stream-icy.bauermedia.pt/smooth.mp3
+
+#EXTINF:0,Smooth-FM Cool
+#EXTVLCOPT:http-origin=https://rayo.pt
+#EXTVLCOPT:http-referrer=https://rayo.pt/
+https://stream-hls.rayo.pt/smocool.aac/playlist.m3u8
+#https://chunks-bauerpt.sharp-stream.com/smocool.aac
+
+#EXTINF:0,Smooth-FM Jazz
+#EXTVLCOPT:http-origin=https://rayo.pt
+#EXTVLCOPT:http-referrer=https://rayo.pt/
+https://stream-hls.rayo.pt/smojazz.aac/playlist.m3u8
+
+#EXTINF:0,Smooth-FM Bossanova
+#EXTVLCOPT:http-origin=https://rayo.pt
+#EXTVLCOPT:http-referrer=https://rayo.pt/
+https://stream-hls.rayo.pt/smobossa.aac/playlist.m3u8
 
 #EXTINF:0,radio club 80 ballads
 #EXTVLCOPT:network-caching=1000
@@ -97,9 +119,7 @@ https://stream.radioclub80.cl:8022/retro80.flac
 #EXTVLCOPT:network-caching=1000
 https://stream.radioclub80.cl:8002/clasicos80.flac
 
-#EXTINF:0,m80 80s
-#EXTVLCOPT:network-caching=1000
-https://stream-icy.bauermedia.pt/m8080.aac
+
 
 #EXTINF:0,NORA 80ers
 #EXTVLCOPT:network-caching=1000
@@ -129,11 +149,7 @@ http://streams.fluxfm.de/chillout/mp3-320/streams.fluxfm.de/
 #EXTVLCOPT:network-caching=1000
 http://streams.fluxfm.de/yogasounds/mp3-320/streams.fluxfm.de/
 
-#EXTINF:0,Smooth-FM Cool
-#EXTVLCOPT:http-origin=https://rayo.pt
-#EXTVLCOPT:http-referrer=https://rayo.pt/
-https://stream-hls.rayo.pt/smocool.aac/playlist.m3u8
-#https://chunks-bauerpt.sharp-stream.com/smocool.aac
+
 
 #EXTINF:0,stream-192kmp3-BaySmoothJazz
 #EXTVLCOPT:network-caching=5000
@@ -202,6 +218,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
 
 
 
