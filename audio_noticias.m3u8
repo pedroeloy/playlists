@@ -89,33 +89,37 @@ https://stream-icy.bauermedia.pt/m8080.aac
 
 #EXTINF:0,Smooth-FM
 #EXTVLCOPT:network-caching=1000
-https://stream-icy.bauermedia.pt/smooth.aac
+#https://stream-icy.bauermedia.pt/smooth.aac
+https://stream-icy.bauermedia.pt/smooth.mp3
 
 #EXTINF:0,Smooth-FM Cool
 #XEXTVLCOPT:http-origin=https://rayo.pt
 #XEXTVLCOPT:http-referrer=https://rayo.pt/
-https://stream-icy.bauermedia.pt/smocool.aac
+#https://stream-icy.bauermedia.pt/smocool.aac
 #https://stream-hls.rayo.pt/smocool.aac/playlist.m3u8
 #https://chunks-bauerpt.sharp-stream.com/smocool.aac
-
-#EXTINF:0,Smooth-FM Cool
-#XEXTVLCOPT:http-origin=https://rayo.pt
-#XEXTVLCOPT:http-referrer=https://rayo.pt/
 https://stream-icy.bauermedia.pt/smocool.mp3
+
+#EXTINF:0,Smooth-FM Cool
+#XEXTVLCOPT:http-origin=https://rayo.pt
+#XEXTVLCOPT:http-referrer=https://rayo.pt/
 #https://stream-hls.rayo.pt/smocool.aac/playlist.m3u8
 #https://chunks-bauerpt.sharp-stream.com/smocool.aac
+https://stream-icy.bauermedia.pt/smocool.mp3
 
 #EXTINF:0,Smooth-FM Jazz
 #XEXTVLCOPT:http-origin=https://rayo.pt
 #XEXTVLCOPT:http-referrer=https://rayo.pt/
 #https://stream-hls.rayo.pt/smojazz.aac/playlist.m3u8
-https://stream-icy.bauermedia.pt/smojazz.aac
+#https://stream-icy.bauermedia.pt/smojazz.aac
+https://stream-icy.bauermedia.pt/smojazz.mp3
 
 #EXTINF:0,Smooth-FM Bossanova
 #XEXTVLCOPT:http-origin=https://rayo.pt
 #XEXTVLCOPT:http-referrer=https://rayo.pt/
 #https://stream-hls.rayo.pt/smobossa.aac/playlist.m3u8
-https://stream-icy.bauermedia.pt/smobossa.aac
+#https://stream-icy.bauermedia.pt/smobossa.aac
+https://stream-icy.bauermedia.pt/smobossa.mp3
 
 #EXTINF:0,radio club 80 ballads
 #EXTVLCOPT:network-caching=1000
@@ -228,6 +232,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
 
 
 
