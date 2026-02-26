@@ -192,7 +192,8 @@ http://server.webnetradio.net:8014/stream
 
 #EXTINF:0,AM Ambient
 #EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/mikepierce/internet-radio-streams/refs/heads/main/AM-Ambient.m3u
+#https://raw.githubusercontent.com/mikepierce/internet-radio-streams/refs/heads/main/AM-Ambient.m3u
+http://radio.stereoscenic.com/ama-h
 
 #EXTINF:1,### VIDEO ###
 https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -225,6 +226,7 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
+
 
 
 
