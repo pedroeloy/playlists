@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,#### audio_noticias.m3u8 ####
-https://google.com/notfound
+https://raw.githubusercontent.com/pedroeloy/playlists/refs/heads/main/smallest.mp3
 
 #EXTINF:0,OBSERVADORAAC_SC?dist=external
 #EXTVLCOPT:network-caching=5000
@@ -202,7 +202,7 @@ https://16603.live.streamtheworld.com/KUSCAAC96.aac
 
 
 #EXTINF:1, ########## VIDEO ##########
-https://google.com/notfound
+https://raw.githubusercontent.com/pedroeloy/playlists/refs/heads/main/smallest.mp3
 
 #EXTINF:-1,RTP 1 720p VLC
 #EXTVLCOPT:http-user-agent=IE
@@ -274,6 +274,9 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 
 
 #EXTINF:1, ########## https://m3upt.com/iptv ##########
+https://raw.githubusercontent.com/pedroeloy/playlists/refs/heads/main/smallest.mp3
+
+#EXTINF:1,https://m3upt.com/iptv
 https://m3upt.com/iptv
 
 
