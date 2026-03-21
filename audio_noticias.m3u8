@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,#### audio_noticias.m3u8 ####
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://google.com/notfound
 
 #EXTINF:0,OBSERVADORAAC_SC?dist=external
 #EXTVLCOPT:network-caching=5000
