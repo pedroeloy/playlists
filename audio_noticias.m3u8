@@ -231,7 +231,9 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1,CNN_Portugal.m3u
 #EXTVLCOPT:network-caching=5000
-https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
+#EXTVLCOPT:http-user-agent=Firefox
+#https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/CNN_Portugal.m3u
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
