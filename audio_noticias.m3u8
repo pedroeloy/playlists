@@ -27,6 +27,7 @@ http://directo.tsf.pt:8181/tsfdirecto.aac
 http://directo.tsf.pt/tsfdirecto.aac.m3u
 
 #EXTINF:0,SIC Noticias Audio
+#EXTVLCOPT:network-caching=50000
 #EXTVLCOPT:http-origin=https://sicnoticias.pt
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot_audio.m3u8
