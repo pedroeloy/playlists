@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1,#### audio_noticias.m3u8 ####
-https://raw.githubusercontent.com/pedroeloy/playlists/refs/heads/main/smallest.mp3
+https://raw.githubusercontent.com/pedroeloy/playlists/refs/heads/main/silence_10s_44100Hz.mp3
 
 #EXTINF:0,OBSERVADORAAC_SC?dist=external
 #EXTVLCOPT:network-caching=5000
